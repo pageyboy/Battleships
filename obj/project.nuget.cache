@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GHJTqMKUFHxeEnV7F7tmnvu7ouJIMMjWkY7KvwwnJqXpsiT5eKbjG7JE6s4qbVJDzUHcqqKul9R475pYq4ylsw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chripage\\Other\\Coding\\Battleships\\Battleships.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chripage\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
