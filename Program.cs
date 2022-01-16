@@ -6,7 +6,7 @@ namespace Battleships
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Game battleships = new Game(4);
         }
     }
 }
